@@ -1,0 +1,6 @@
+Extension
+WakaTime
+Prettier - Code formatter
+ESLint
+Material Theme
+Material Icon Theme
