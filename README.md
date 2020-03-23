@@ -51,6 +51,12 @@ freenom.com - free domain
 
 hosting.kr - 도메인 등록
 
+## Redux Extension
+
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=ko
+
+state를 구글 확장프로그램으로 볼 수 있게 해줌.
+
 ## 그외 등등
 
 hosting.kr - 도메인 등록
