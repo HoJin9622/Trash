@@ -79,8 +79,6 @@ caniuse.com - 웹 브라우저와 명령어의 호환 가능 여부
 
 javascript dom event mdn - 자바스크립트 이벤트 찾기 구글 검색어
 
-<<<<<<< HEAD
 https://www.data.go.kr/ - 공공 데이터 포털
-=======
+
 repl.it - 파이썬 등 코드 작성 해볼 수 있는 사이트
->>>>>>> 9c4ffa1cb9c00dbb73f258631fd6e61a134c71a7
