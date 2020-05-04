@@ -82,3 +82,5 @@ javascript dom event mdn - 자바스크립트 이벤트 찾기 구글 검색어
 https://www.data.go.kr/ - 공공 데이터 포털
 
 repl.it - 파이썬 등 코드 작성 해볼 수 있는 사이트
+
+https://fontmeme.com/fancy-fonts/ - Font 이쁘게 만들 수 있음
