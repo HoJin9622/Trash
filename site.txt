@@ -1,3 +1,0 @@
-flatuicolors.com
-openweathermap - weather api
-freenom.com - free domain
