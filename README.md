@@ -1,26 +1,42 @@
 # Useful things
 
+## Visual Studio Code Extension
+
 ## VSC Extension
 
-WakaTime
+<a href="https://wakatime.com/" target="_blank" >WakaTime</a> - 시간 관리 툴
 
-Prettier - Code formatter
+<a href="https://prettier.io/" target="_blank" >Prettier - Code formatter</a> - 코드 정리
 
-ESLint
+<a href="https://eslint.org/" target="_blank" >ESLint</a> - JavaScript 정적 코드 분석 도구
 
-Material Theme
+<a href="https://www.material-theme.com/" target="_blank" >Material Theme</a> - 테마
 
-Material Icon Theme
+<a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme" target="_blank" >Material Icon Theme</a> - 아이콘 테마
 
 ## Color
 
-https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp
+<a href="https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp" target="_blank" >ColorZilla</a> - 크롬 브라우저 색상 추출
 
-flatuicolors.com
+<a href="https://flatuicolors.com/" target="_blank" >Palettes</a> - 색상 모음
 
 ## Size
 
-https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal
+<a href="https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal" target="_blank" >Page Ruler Redux</a> - 페이지 픽셀 측정
+
+## API
+
+<a href="https://openweathermap.org/" target="_blank" >OpenWeatherMap</a> - Weather API
+
+## Domain
+
+<a href="https://www.freenom.com/en/index.html?lang=en" target="_blank" >freenom</a> - 도메인 무료 등록
+
+<a href="https://hosting.kr/" target="_blank" >HOSTING.KR</a> - 도메인 등록
+
+## Redux
+
+<a href="https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=ko" target="_blank" >Redux DevTools</a> - state를 볼 수 있는 구글 확장 프로그램
 
 ## Eslint setting
 
@@ -40,22 +56,6 @@ first eslinnt settings
         "no-process-exit": "off",
         "object-shorthand": "off",
         "class-method-use-this": "off"
-
-## API
-
-openweathermap - weather api
-
-## Domain
-
-freenom.com - free domain
-
-hosting.kr - 도메인 등록
-
-## Redux Extension
-
-https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=ko
-
-state를 구글 확장프로그램으로 볼 수 있게 해줌.
 
 ## 그외 등등
 
