@@ -2,8 +2,6 @@
 
 ## Visual Studio Code Extension
 
-## VSC Extension
-
 <a href="https://wakatime.com/" target="_blank" >WakaTime</a> - 시간 관리 툴
 
 <a href="https://prettier.io/" target="_blank" >Prettier - Code formatter</a> - 코드 정리
@@ -24,9 +22,17 @@
 
 <a href="https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal" target="_blank" >Page Ruler Redux</a> - 페이지 픽셀 측정
 
+## 디자인
+
+<a href="https://unsplash.com/" target="_blank" >Unsplash</a> - 저작권 없는 이미지
+
+<a href="https://fontmeme.com/fancy-fonts/" target="_blank" >Fancy Font</a> - Font 이쁘게 만들 수 있음
+
 ## API
 
 <a href="https://openweathermap.org/" target="_blank" >OpenWeatherMap</a> - Weather API
+
+<a href="https://www.data.go.kr/" target="_blank" >공공 데이터 포털</a>
 
 ## Domain
 
@@ -37,6 +43,32 @@
 ## Redux
 
 <a href="https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=ko" target="_blank" >Redux DevTools</a> - state를 볼 수 있는 구글 확장 프로그램
+
+## 알고리즘
+
+<a href="https://www.acmicpc.net/" target="_blank">백준 코드</a> - 알고리즘 문제
+
+## Diagrams
+
+<a href="https://www.diagrams.net/" target="_blank" >diagrams.net</a> - 다이어그램 만들기
+
+## Online Compiler
+
+<a href="https://ideone.com/" target="_blank" >ideone.com</a> - Online Java Compiler
+
+<a href="https://codesandbox.io/" target="_blank" >CodeSandbox</a> - Online code editor(web)
+
+<a href="https://codepen.io/" target="_blank" >CodePen</a> - 사용자 제작 HTML, CSS 및 JavaScript 코드 스 니펫을 테스트하고 보여주는 온라인 커뮤니티
+
+<a href="https://repl.it/" target="_blank" >repl.it</a> - Online IDE, Editor, Compiler, Interpreter, and REPL. Code, compile, run, and host in 50+ programming languages
+
+## Web 관련
+
+<a href="https://www.w3schools.com/" target="_blank" >w3schools</a> - HTML, CSS, JavaScript 문서</a>
+
+<a href="https://www.advancedwebranking.com/html/" target="_blank" >The average web page</a> - 태그 사용도 순위
+
+<a href="https://caniuse.com/" target="_blank" >Can I use?</a> - 웹 브라우저와 태그의 호환 가능 여부 확인
 
 ## Eslint setting
 
@@ -56,80 +88,3 @@ first eslinnt settings
         "no-process-exit": "off",
         "object-shorthand": "off",
         "class-method-use-this": "off"
-
-## 그외 등등
-
-hosting.kr - 도메인 등록
-
-https://www.w3schools.com/ - 웹
-
-백준코드 - 프로그래밍 문제
-
-https://www.draw.io/?libs=general;uml - 다이어그램 만들기
-
-ideone.com - Online Java Compiler
-
-codepen.io - Web Compiler
-
-https://www.advancedwebranking.com/html/ - 태그 사용도 순위
-
-unsplash.com - 저작권 없는 이미지
-
-caniuse.com - 웹 브라우저와 명령어의 호환 가능 여부
-
-javascript dom event mdn - 자바스크립트 이벤트 찾기 구글 검색어
-
-https://www.data.go.kr/ - 공공 데이터 포털
-
-repl.it - 파이썬 등 코드 작성 해볼 수 있는 사이트
-
-https://fontmeme.com/fancy-fonts/ - Font 이쁘게 만들 수 있음
-
-## 정리 요망
-
-사이트
-hosting.kr - ������ ���
-https://www.w3schools.com/ - ��
-�����ڵ� - ���α׷��� ����
-https://www.draw.io/?libs=general;uml - ���̾�׷� �����
-ideone.com - Online Java Compiler
-codepen.io - Web Compiler
-https://www.advancedwebranking.com/html/ - �±� ��뵵 ����
-unsplash.com - ���۱� ���� �̹���
-caniuse.com - �� �������� ���ɾ��� ȣȯ ���� ����
-javascript dom event mdn - �ڹٽ�ũ��Ʈ �̺�Ʈ ã�� ���� �˻���
-
-컬러
-https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp for colors.
-https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal for sizes.
-
-eslint
-first eslinnt settings
-
-npm i -D eslint prettier eslint-plugin-prettier eslint-config-prettier eslint-plugin-node eslint-config-node
-npx install-peerdeps --dev eslint-config-airbnb
-npm i -g eslint
-eslint --init
-
-"extends": ["airbnb", "prettier", "plugin:node/recommended"],
-"plugins": ["prettier"],
-"rules": {
-"no-unused-vars": "warn",
-"no-console": "off",
-"func-names": "off",
-"no-process-exit": "off",
-"object-shorthand": "off",
-"class-method-use-this": "off"
-
-extension
-Extension
-WakaTime
-Prettier - Code formatter
-ESLint
-Material Theme
-Material Icon Theme
-
-site
-flatuicolors.com
-openweathermap - weather api
-freenom.com - free domain
