@@ -1,5 +1,3 @@
-# Useful things
-
 ## Visual Studio Code Extension
 
 <a href="https://wakatime.com/" target="_blank" >WakaTime</a> - 시간 관리 툴
