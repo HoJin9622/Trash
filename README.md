@@ -26,6 +26,8 @@
 
 <a href="https://fontmeme.com/fancy-fonts/" target="_blank" >Fancy Font</a> - Font 이쁘게 만들 수 있음
 
+<a href="https://www.screentogif.com/" target="_blank">Screen To Gif</a> - gif 생성
+
 ## API
 
 <a href="https://openweathermap.org/" target="_blank" >OpenWeatherMap</a> - Weather API
@@ -62,11 +64,19 @@
 
 ## Web 관련
 
-<a href="https://www.w3schools.com/" target="_blank" >w3schools</a> - HTML, CSS, JavaScript 문서</a>
+<a href="https://www.w3schools.com/" target="_blank" >w3schools</a> - HTML, CSS, JavaScript 문서
 
 <a href="https://www.advancedwebranking.com/html/" target="_blank" >The average web page</a> - 태그 사용도 순위
 
 <a href="https://caniuse.com/" target="_blank" >Can I use?</a> - 웹 브라우저와 태그의 호환 가능 여부 확인
+
+## git
+
+<a href="http://gitignore.io/" target="_blank" >gitignore</a> - gitignore 파일을 만들어준다.
+
+## github
+
+<a href="https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien/related" target="_blank">Isometric Contributions</a> - Renders an isometric pixel view of GitHub contribution graphs.
 
 ## Eslint setting
 
